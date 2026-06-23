@@ -1,4 +1,5 @@
 ﻿namespace zadanie2 
+// Выбор первых N элементов     
 {
     public class ArrayHelper
     {
